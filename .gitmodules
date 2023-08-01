@@ -1,0 +1,9 @@
+[submodule "app1"]
+	path = charts
+	url = https://github.com/venkatkasi/app1.git
+[submodule "app3"]
+	path = app1/charts
+	url = https://github.com/venkatkasi/app1.git
+[submodule "app4"]
+	path = app2/charts
+	url = https://github.com/venkatkasi/app2.git
