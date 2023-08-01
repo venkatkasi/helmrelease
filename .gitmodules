@@ -1,0 +1,3 @@
+[submodule "charts/app1"]
+	path = charts/app1
+	url = https://github.com/venkatkasi/app1.git
