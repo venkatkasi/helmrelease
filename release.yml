@@ -1,5 +1,6 @@
 amaginow:
   chartversion: v1.2.1
+  release_notes: https://
   images:
     imagetag: amaginow-microservice1:v1.2.1
     imagetag: amaginow-microservice2:v1.3.2
@@ -7,6 +8,7 @@ amaginow:
     imagetag: amaginow-microservice4:v1.1.4
 epg:
   chartversion: v1.3.1
+  release_notes: https://
   images:
     imagetag: epg-microservice1:v1.3.1
     imagetag: epg-microservice1:v1.3.2
@@ -14,6 +16,7 @@ epg:
     imagetag: epg-microservice1:v1.0.4
 on-demand:
   chartversion: v1.4.1
+  release_notes: https://
   images:
     imagetag: on-demand-microservice1:v1.4.1
     imagetag: on-demand-microservice1:v1.4.2
