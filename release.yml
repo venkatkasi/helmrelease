@@ -1,7 +1,23 @@
-sdfsdfs
-sdfsdfsd
+amaginow:
+  chartversion: v1.2.1
+  images:
+    imagetag: amaginow-microservice1:v1.2.1
+    imagetag: amaginow-microservice2:v1.3.2
+    imagetag: amaginow-microservice3:v1.2.3
+    imagetag: amaginow-microservice4:v1.1.4
+epg:
+  chartversion: v1.3.1
+  images:
+    imagetag: epg-microservice1:v1.3.1
+    imagetag: epg-microservice1:v1.3.2
+    imagetag: epg-microservice1:v1.3.4
+    imagetag: epg-microservice1:v1.0.4
+on-demand:
+  chartversion: v1.4.1
+  images:
+    imagetag: on-demand-microservice1:v1.4.1
+    imagetag: on-demand-microservice1:v1.4.2
+    imagetag: on-demand-microservice1:v1.4.4
+    imagetag: on-demand-microservice1:v1.5.4
 
-34234
-56756765
-24324
 
